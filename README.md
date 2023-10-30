@@ -8,7 +8,7 @@ laboratorio de integración continua
 - Modifica el archivo `maven-publish.yml` dejándolo así:
 
 ```
-name: Maven Package
+name: Maven Verify
 
 on: push
 
